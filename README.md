@@ -8,3 +8,4 @@ homologous links found a set of reference genomes.  The chromosomal contigs are 
 and ordered using a set of core genes that have the same order in all members of a set of
 fully-assembled genomes. Plasmid replication genes are identified and used to label the
 corresponding scaffolds.
+The current version is specific for genomes of RHizobium leguminosarum, but it could be modified for use with other bacteria.
