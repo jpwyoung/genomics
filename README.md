@@ -9,3 +9,5 @@ and ordered using a set of core genes that have the same order in all members of
 fully-assembled genomes. Plasmid replication genes are identified and used to label the
 corresponding scaffolds.
 The current version is specific for genomes of Rhizobium leguminosarum, but it could be modified for use with other bacteria.
+
+Additional files provided are the reference sequences that Jigome uses: the 20 RepA types, the conserved chromosomal core genes in their conserved order, the dnaA sequence, and the reference genomes (for which only the contig headers are given - the actual genome sequences are too large, but can mostly be downloaded from GenBank).
